@@ -1,7 +1,7 @@
 # Hello
 
 - 👋 Hi, I’m Shama Kuakrathok (@skuakrat)
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, especially ERP.
 - 🌱 I’m currently learning CS50 Web programming with Python and Javascript at EdX , HarvardX
 - 💞️ I’m looking to collaborate on full stack web development 
 - 📫 How to reach me ... facebook.com/skuakrat
