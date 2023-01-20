@@ -1,10 +1,10 @@
 # Hello
 
 - 👋 Hi, I’m Shama Kuakrathok (@skuakrat)
-- 👀 I’m interested in coding, especially ERP.
-- 🌱 I’m currently learning CS50 Web programming with Python and Javascript at EdX , HarvardX
-- 💞️ I’m looking to collaborate on full stack web development 
-- 📫 How to reach me ... facebook.com/skuakrat
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning CS50 Web programming with Python and Javascript by HarvardX at EdX.
+- 💞️ I’m looking to collaborate on full stack web developer.
+- 📫 How to reach me ... I'm not ready to expose
 
 <!---
 skuakrat/skuakrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
