@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Shama Kuakrathok (@skuakrat)
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning CS50 Web programming with Python and Javascript by HarvardX at EdX.
-- 💞️ I’m looking to collaborate on full stack web developer.
+- 💞️ I’m looking to collaborate on full stack web development.
 - 📫 How to reach me ... I'm not ready to expose
 
 <!---
